@@ -31,8 +31,8 @@
 - **Frontend**: React 
 - **역할**: 여행 일정 기록 및 커뮤니티 게시판(글작성, 댓글, 썸네일, 사진 추가/삭제, 검색, 인기게시물, 권한 제어) 구현
 
-<img src="./assets/WhereGo_1.png" width="500"/><img src="./assets/WhereGo_2.png" width="500"/>
-<img src="./assets/WhereGo_3.png" width="500"/><img src="./assets/WhereGo_4.png" width="500"/>
+<img src="./assets/WhereGo_1.png" width="400"/><img src="./assets/WhereGo_2.png" width="400"/>
+<img src="./assets/WhereGo_3.png" width="400"/><img src="./assets/WhereGo_4.png" width="400"/>
 
 ---
 
