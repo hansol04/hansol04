@@ -17,8 +17,8 @@
 - **Frontend**: React 
 - **역할**: 전체 UI 및 UX 흐름 구성, 기사/문학/동화 목록 및 상세 페이지 구현, 난이도·카테고리 필터, 문제 풀이 페이지, 결과 페이지 UI/로직
 
-<img src="./assets/ReadForce_1.png" width="500"/><img src="./assets/ReadForce_2.png" width="500"/>
-<img src="./assets/ReadForce_3.png" width="500"/><img src="./assets/ReadForce_4.png" width="500"/>
+<img src="./assets/ReadForce_1.png" width="400"/><img src="./assets/ReadForce_2.png" width="400"/>
+<img src="./assets/ReadForce_3.png" width="400"/><img src="./assets/ReadForce_4.png" width="400"/>
 
 ---
 
