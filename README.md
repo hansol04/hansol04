@@ -62,12 +62,12 @@
 - **역할**: 전체 UI 및 UX 흐름 구성, 인트로/온보딩, 로그인/회원가입/비회원, 채팅, 방 만들기, 게임 UI, 리워드 시스템
 
   <p align="center">
-  <img src="./assets/Sodam_1.png" width="150"/>
-  <img src="./assets/Sodam_2.png" width="150"/>
-  <img src="./assets/Sodam_3.png" width="150"/>
-  <img src="./assets/Sodam_4.png" width="150"/>
-  <img src="./assets/Sodam_5.png" width="150"/>
-  <img src="./assets/Sodam_6.png" width="150"/>
+  <img src="./assets/Sodam_1.png" width="140"/>
+  <img src="./assets/Sodam_2.png" width="140"/>
+  <img src="./assets/Sodam_3.png" width="140"/>
+  <img src="./assets/Sodam_4.png" width="140"/>
+  <img src="./assets/Sodam_5.png" width="140"/>
+  <img src="./assets/Sodam_6.png" width="140"/>
 </p>
 
 ---
