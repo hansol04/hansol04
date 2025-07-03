@@ -17,6 +17,7 @@
 - **Frontend**: React 
 - **역할**: 전체 UI 및 UX 흐름 구성, 기사/문학/동화 목록 및 상세 페이지 구현, 난이도·카테고리 필터, 문제 풀이 페이지, 결과 페이지 UI/로직
 
+🔽 **실제 구현 화면 예시:**
 <table>
 <tr>
   <td><img src="./assets/ReadForce_1.png" width="400"/></td>
@@ -39,6 +40,7 @@
 - **Frontend**: React 
 - **역할**: 여행 일정 기록 및 커뮤니티 게시판(글작성, 댓글, 썸네일, 사진 추가/삭제, 검색, 인기게시물, 권한 제어) 구현
 
+🔽 **실제 구현 화면 예시:**
 <table>
 <tr>
   <td><img src="./assets/WhereGo_1.png" width="400"/></td>
@@ -61,6 +63,7 @@
 - **Frontend**: Flutter (Dart)
 - **역할**: 전체 UI 및 UX 흐름 구성, 인트로/온보딩, 로그인/회원가입/비회원, 채팅, 방 만들기, 게임 UI, 리워드 시스템
 
+🔽 **Figma로 디자인한 UI 화면 예시:**
   <p align="center">
   <img src="./assets/Sodam_1.png" width="130"/>
   <img src="./assets/Sodam_2.png" width="130"/>
