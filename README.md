@@ -17,10 +17,8 @@
 - **Frontend**: React 
 - **역할**: 전체 UI 및 UX 흐름 구성, 기사/문학/동화 목록 및 상세 페이지 구현, 난이도·카테고리 필터, 문제 풀이 페이지, 결과 페이지 UI/로직
 
-<img src="./assets/ReadForce_1.png" width="600"/>
-<img src="./assets/ReadForce_2.png" width="600"/>
-<img src="./assets/ReadForce_3.png" width="600"/>
-<img src="./assets/ReadForce_4.png" width="600"/>
+<img src="./assets/ReadForce_1.png" width="500"/><img src="./assets/ReadForce_2.png" width="500"/>
+<img src="./assets/ReadForce_3.png" width="500"/><img src="./assets/ReadForce_4.png" width="500"/>
 
 ---
 
@@ -32,6 +30,9 @@
 - **주요 기능**: 여행지 등록/수정/삭제, 일정 관리, 커뮤니티, 체크리스트, 마이페이지, 환율 계산기, 지도 API
 - **Frontend**: React 
 - **역할**: 여행 일정 기록 및 커뮤니티 게시판(글작성, 댓글, 썸네일, 사진 추가/삭제, 검색, 인기게시물, 권한 제어) 구현
+
+<img src="./assets/WhereGo_1.png" width="500"/><img src="./assets/WhereGo_2.png" width="500"/>
+<img src="./assets/WhereGo_3.png" width="500"/><img src="./assets/WhereGo_4.png" width="500"/>
 
 ---
 
