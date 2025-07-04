@@ -81,9 +81,14 @@ React 기반의 UI 구현 경험을 바탕으로, **풀스택 개발자로의 �
 
 ## 💬 About Me
 
-- 프론트엔드 중심의 개발 역량 강화 중 (React / Flutter)
-- 사용자 경험을 최우선으로 고려한 화면 설계 및 기능 개발 경험 다수
-- GitHub, Notion, Figma를 활용한 협업과 문서화 경험 보유
+- React와 Flutter로 실제 서비스 UI/UX를 설계하고 구현한 경험을 바탕으로,  
+  현재까지 **프론트엔드 프로젝트 중심의 경험**을 쌓았습니다.  
+- Java 기반 백엔드 구조도 함께 학습 중이며,  
+  **김영한 강의 시리즈와 Spring Boot 수업**을 이수했습니다.  
+- **JSP 기반 MVC 패턴, Servlet 구조, SQL/Oracle 등도 수업을 통해 익혔으며**,  
+  **Controller–Service–Repository 구조와 API 연동 흐름**을 이해하고 있습니다.  
+- 단순 구현을 넘어 **전체 서비스 구조를 고려하는 풀스택 개발자**로 성장 중입니다.  
+- **GitHub, Notion, Figma를 활용한 협업 및 문서화 경험 보유**
 
 ---
 
