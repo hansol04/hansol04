@@ -34,7 +34,7 @@ React 기반의 UI 구현 경험을 바탕으로 풀스택 개발자로 성장 �
 </tr>
 <tr>
   <td><img src="./assets/ReadForce_3.png" width="400"/></td>
-  <td><img src="./assets/ReadForce_4.png" width="400"/></td>
+  <td><img src="./assets/ReadForce_5.png" width="400"/></td>
 </tr>
 </table>
 
